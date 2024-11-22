@@ -15,3 +15,6 @@ To cite this work, cite the original paper
 }
 ```
 This will be replaced with the corresponding journal entry upon publication. 
+
+# GPU vs. CPU Operations
+For simplicity, we have posted simple JAX-cpu code to perform these operations. While we have GPU compatible code for inverse design, it was not used in this paper and will therefore be part of another repository that will be linked here when it is made public. 
